@@ -1,8 +1,8 @@
-# Pandas-for-Data-Analysis
-PANDAS FOR DATA ANALYSIS:
-\n	Most useful functions
-\n	pandas datatypes
-\n	Importing & Exporting data
-\n	Describing data
-\n	Viewing & selecting data
-\n	Manipulating data
+# Pandas-for-Data-Analysis  
+*  Most useful functions  
+*  pandas datatypes  
+*  Importing & Exporting data  
+*  Describing data  
+*  Viewing & selecting data  
+*  Manipulating data  
+
